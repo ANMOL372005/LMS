@@ -38,9 +38,9 @@ const CourseDetails = () => {
 
   return courseData ? (
     <>
-      <div className="flex md:flex-row flex-col-reverse gap-10 relative items-start justify-between md:px-36 px-8 md:pt-15 pt-10 text-left">
+      <div className="flex md:flex-row flex-col-reverse gap-10 relative items-start justify-between md:px-36 px-8 md:pt-15 pt-10 text-left bg-gradient-to-b from-cyan-100/70">
 
-        <div className='absolute top-0 left-0 w-full h-[500px] -z-1 bg-gradient-to-b from-cyan-100/70'></div>
+        <div className='absolute top-0 left-0 w-full h-[500px] -z-1 '></div>
 
 
 
